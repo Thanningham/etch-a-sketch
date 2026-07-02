@@ -1,1 +1,2 @@
 # etch-a-sketch
+A browser-based drawing application inspired by the classic Etch-a-Sketch toy. This project was built as part of The Odin Project to practice DOM manipulation, event handling, and dynamic grid generation using JavaScript.
